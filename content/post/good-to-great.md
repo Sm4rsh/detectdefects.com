@@ -1,7 +1,7 @@
 +++
 date = '2025-09-26T20:41:26+01:00'
 draft = false
-title = 'Good to Great'
+title = 'From Seam to Shine: Automating Quality Control for Weld Defects in Automotive Manufacturing'
 +++
 
 
